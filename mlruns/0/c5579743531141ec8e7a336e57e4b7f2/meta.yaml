@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Arnav/Desktop/innomatics/mlflow/mlruns/0/c5579743531141ec8e7a336e57e4b7f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5579743531141ec8e7a336e57e4b7f2
+run_name: rare-auk-651
+run_uuid: c5579743531141ec8e7a336e57e4b7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711536592704
+status: 1
+tags: []
+user_id: arnav
